@@ -1,10 +1,5 @@
-iOSBootstrap [![Circle CI](https://circleci.com/gh/oppai/iOSBootstrap.svg?style=svg)](https://circleci.com/gh/oppai/iOSBootstrap)
+Bubbly [![Circle CI](https://circleci.com/gh/oppai/Bubbly.svg?style=svg)](https://circleci.com/gh/oppai/Bubbly)
 ===============
-## How to use
-Clone this repository! And replace name following command
-```
-grep -rl 'iOSBootstrap' * | xargs sed -e -i "s/iOSBootstrap/MyProject/g"
-```
 
 ## install
 ```
